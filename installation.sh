@@ -18,6 +18,8 @@ sudo apt-get install -y vim \
 		     htop \
 		     gnome-tweaks \
  		     git \
+		     net-tools \
+		     dnsutils \
                      apt-transport-https \
                      ca-certificates \
                      gnupg-agent \
