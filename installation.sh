@@ -8,6 +8,7 @@ sudo apt-get install -y vim \
                      zip \
                      unzip \
                      rar \
+		     ranger \
                      unrar \
                      zsh \
 		     vlc \
