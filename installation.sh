@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /tmp && wget -O rasanegar-ubuntu-mirror.sh http://mirror.rasanegar.com/repo/scripts/rasanegar-ubuntu-mirror.sh && chmod 755 rasanegar-ubuntu-mirror.sh && sudo sh rasanegar-ubuntu-mirror.sh
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get install -y vim \
